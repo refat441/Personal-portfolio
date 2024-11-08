@@ -19,10 +19,11 @@ const links = [
         active: 'about'
     },
     {
-        name: info.initials,
+        name: info.initials.toUpperCase(),
         type: 'initials',
         to: '',
         active: 'home'
+        
     },
     {
         name: 'Portfolio',
