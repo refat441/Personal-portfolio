@@ -106,26 +106,27 @@ export const info = {
     ],
     portfolio: [ // This is where your portfolio projects will be detailed
         {
-            title: "Project 1",
-            live: "https://paytonpierce.dev", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
+            title: "Inventory Dashboard",
+            live: "https://qibla.netlify.app/", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
             source: "https://github.com/paytonjewell", // this should be a link to the **repository** of the project, where the code is hosted.
             image: mock1
         },
         {
-            title: "Project 2",
-            live: "https://paytonpierce.dev",
+            title: "Hajj & Umrah Agency",
+            live: "https://qibla.netlify.app/",
+            // live: "https://paytonpierce.dev",
             source: "https://github.com/paytonjewell",
             image: mock2
         },
         {
-            title: "Project 3",
-            live: "https://paytonpierce.dev",
+            title: "Restaurant Front-End",
+            live: "https://refat441.github.io/Indian_Restaurant/",
             source: "https://github.com/paytonjewell",
             image: mock3
         },
         {
-            title: "Project 4",
-            live: "https://paytonpierce.dev",
+            title: "Zan-Web",
+            live: "https://refat441.github.io/Zan-Web/",
             source: "https://github.com/paytonjewell",
             image: mock4
         },
